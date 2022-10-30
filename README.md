@@ -1,6 +1,6 @@
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
-Markdown is a markup language used to write content on the web.
+Markdown is a markup language used to write content on the web.\
 You can include some HTML syntax in Markdown.
 
 ---
