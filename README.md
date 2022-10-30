@@ -1,17 +1,13 @@
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
 Markdown is a markup language used to write content on the web.\
-You can include some HTML syntax in Markdown.
-
----
-
-### This is a long ReadMe, read-write-study patiently, this will be here forever.
+You can include some HTML syntax in Markdown.\
+This is a long ReadMe, read-write-study patiently, this will be here forever.
 
 
 <br>
 
 <!-- ------------------------------------------- -->
-
 
 ---
 
@@ -321,10 +317,8 @@ Quoted text Output:
 
    * Put mouse cursor on image to see alignment type.
 
-[link]: "https://img.icons8.com/nolan/512/markdown.png"
-
 <p align="center">
-<img src= [link] title = "Center Aligned" height='50'></p>
+<img src= "https://img.icons8.com/nolan/512/markdown.png" title = "Center Aligned" height='50'></p>
 
 <p align="left">
 <img src="https://img.icons8.com/nolan/512/markdown.png" title = "Left Aligned" height='50'></p>
