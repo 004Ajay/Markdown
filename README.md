@@ -7,26 +7,59 @@ You can include some HTML syntax in Markdown.
 
 ### This is a long ReadMe, read-write-study patiently, this will be here forever.
 
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+
 ---
 
 ## Quick Navigation
 
 * Click the link to go to specific heading
 
-  * [Downloading Zip File](#Download-and-start-installation)
+  * [Comments](#Comments)
 
-  * [Installation](#Run-setup-file)
+  * [Heading Size](#Heading-Size)
 
-  * [User creation](#User-creation)
+  * [Horizintal Rule or Line](#Horizintal-Rule-or-Line)
 
 
-You can include some HTML syntax in Markdown.
 
-## Comments 
+
+
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+  * [Heading Size](#Heading-Size)
+
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+### Comments 
 
             <!-- 'write comments here' -->
 
 ---
+
+<br>
+
+<!-- ------------------------------------------- -->
 
 ### Heading Size
 
@@ -40,18 +73,32 @@ You can include some HTML syntax in Markdown.
 
 ---
 
-* Horizintal Rule or Line
+<br>
+
+<!-- ------------------------------------------- -->
+
+### Horizintal Rule or Line
             
             --- , just put 3 minus symbols
 
 ---
 
- * Add new line
+<br>
+
+<!-- ------------------------------------------- -->
+
+### Add new line
 
             sentence one.\
             sentence two
 
 ---
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+
 
 
 
