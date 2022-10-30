@@ -226,12 +226,21 @@ Quote Output: This is a `quoted` text
 
 <!-- ------------------------------------------- -->
 
-```vdfdf```
+### Adding Image
+
+        ![Alt text](/path/to/img.jpg "Optional title")
+
+* Using HTML code
+
+        <img src="image.jpg or path" alt="alt_name" width="500" height="600">
+
+
+
+
+
+
 ---
 ---
-
-
-
 
 
 
