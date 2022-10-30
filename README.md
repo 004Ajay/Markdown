@@ -54,7 +54,11 @@ You can include some HTML syntax in Markdown.
 
   * [Adding Image](#Adding-Image)
 
-   * [Color Modes](#Color-Modes)
+  * [Color Modes](#Color-Modes)
+
+  * [Task List](#Task-List)
+
+  * [Table](#Table)
 
 
 
@@ -62,10 +66,6 @@ You can include some HTML syntax in Markdown.
 <br>
 
 for other navigation links
-
-  * [Heading Size](#Heading-Size)
-
-  * [Heading Size](#Heading-Size)
 
   * [Heading Size](#Heading-Size)
 
@@ -246,7 +246,7 @@ Superscript Output: <sup>This is a superscript text</sup>
 
 Quoted code Output: This is a `quoted` code
 
-### Language based quoting
+#### Language based quoting
 
         ```python
         var = input("Python syntax highlighting")
@@ -303,11 +303,57 @@ Quoted text Output:
 
 <!-- ------------------------------------------- -->
 
+### Task List
 
+        - [ ] Option A
+        - [x] Option B
+        - [ ] Option C
+
+* Task List Output: 
+
+  - [ ] Option A
+
+  - [x] Option B
+
+  - [ ] Option C
 
 ---
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+### Table
+
+
+        | Tables        | Are           | Cool  |
+        | ------------- |:-------------:| -----:|
+        | col 3 is      | right-aligned | $1600 |
+        | col 2 is      | centered      |   $12 |
+        | zebra stripes | are neat      |    $1 |
+
+-------------- -> Clear Line separating column element
+
+:------------: -> Center Aligned
+
+-------------: -> Right Aligned
+
+:------------- -> Left Aligned
+
+Table Output:
+
+| Tables        | Are           |  Cool     | in markdown |
+| ------------- |:-------------:|  :-----   |    -----:   |
+| col 1 is      | Normally      |  aligned  |      nil    |
+| col 2 is      | Centered      |  aligned  |      nil    |
+| col 3 is      | Left          |  aligned  |      nil    |
+| col 4 is      | Rigth         |  aligned  |      nil    |
+
 ---
 
+<br>
+
+<!-- ------------------------------------------- -->
 
 
 
