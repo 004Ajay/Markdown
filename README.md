@@ -30,7 +30,7 @@ You can include some HTML syntax in Markdown.
 
 
 
-  * [Heading Size](#Heading-Size)
+  * [Italic](#Italic)
 
   * [Heading Size](#Heading-Size)
 
