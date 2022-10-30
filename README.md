@@ -21,6 +21,9 @@ You can include some HTML syntax in Markdown.
 
 ## Contents
 
+* Click on the drop-down to see contents
+
+
 * Click the link to go to specific heading
 
   * [Comments](#Comments)
@@ -134,7 +137,7 @@ for other navigation links
 
         This is [Markdown](https://github.com/004Ajay/Markdown)
 
-Link output: This is [Markdown](https://github.com/004Ajay/Markdown), click on 'markdown'
+Link output: This is [Markdown](https://github.com/004Ajay/Markdown), click on 'Markdown'
 
 ---
 
@@ -242,6 +245,18 @@ Superscript Output: <sup>This is a superscript text</sup>
         This is a `quoted` code
 
 Quoted code Output: This is a `quoted` code
+
+### Language based quoting
+
+        ```python
+        var = input("Python syntax highlighting")
+        print(var)
+        ```
+
+```python
+var = input("Python syntax highlighting")
+print(var)
+```
 
 ---
 
