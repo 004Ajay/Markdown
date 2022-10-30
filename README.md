@@ -1,4 +1,6 @@
 # Repository under maintenance...you can beta-test it, and report me
+<!-- REMOVE ^^^THIS^^^ AFTER FINISHING THE EDIT -->
+
 
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
@@ -211,6 +213,20 @@ Superscript Output: <sup>This is a superscript text</sup>
 
 <!-- ------------------------------------------- -->
 
+#### Quoting
+
+        ` `
+        This is a `quoted` text
+
+Quote Output: This is a `quoted` text
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+```vdfdf```
 ---
 ---
 
