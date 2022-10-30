@@ -45,15 +45,18 @@ You can include some HTML syntax in Markdown.
 
     * [Superscript](#Superscript) 
 
+    * [Quoting](#Quoting)
+
+  * [Adding Image](#Adding-Image)
 
 <br>
 <br>
 
 for other navigation links
 
-  * [Heading Size](#Heading-Size)
 
-  * [Heading Size](#Heading-Size)
+
+  
 
   * [Heading Size](#Heading-Size)
 
