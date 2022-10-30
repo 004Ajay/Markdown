@@ -33,9 +33,9 @@ You can include some HTML syntax in Markdown.
 
     * [Strikethrough](#Strikethrough) 
 
-    * [Bold & nested italic](#Bold-&-nested-italic) 
+    * [Bold & nested italic](#Bold-and-nested-italic) 
 
-    * [All bold & italic](#All-bold-&-italic) 
+    * [All bold & italic](#All-bold-and-italic) 
 
     * [Subscript](#Subscript) 
 
@@ -156,7 +156,7 @@ Strikethrough Output: ~~This was mistaken text~~
 
 <!-- ------------------------------------------- -->
 
-####  Bold & nested italic
+####  Bold and nested italic
 
         ** ** and _ _
         **This text is _extremely_ important**
@@ -169,7 +169,7 @@ Bold & nested italic Output: **This text is _extremely_ important**
 
 <!-- ------------------------------------------- -->
 
-#### All bold & italic
+#### All bold and italic
 
         *** ***
         ***All this text is important***
