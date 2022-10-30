@@ -51,14 +51,18 @@ You can include some HTML syntax in Markdown.
 
   * [Adding Image](#Adding-Image)
 
+   * [Color Modes](#Color-Modes)
+
+
+
 <br>
 <br>
 
 for other navigation links
 
+  * [Heading Size](#Heading-Size)
 
-
-  
+  * [Heading Size](#Heading-Size)
 
   * [Heading Size](#Heading-Size)
 
@@ -118,11 +122,25 @@ for other navigation links
             sentence two
 
 ---
----
 
 <br>
 
 <!-- ------------------------------------------- -->
+
+### Links
+
+        []()
+        [Name to be shown](Link)
+
+        This is [Markdown](https://github.com/004Ajay/Markdown)
+
+Link output: This is [Markdown](https://github.com/004Ajay/Markdown), click on 'markdown'
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->        
 
 ### Text Styling
 
@@ -260,6 +278,15 @@ Quoted text Output:
 
 <!-- ------------------------------------------- -->
 
+### Color Modes
+
+        The bg color should be `#ffffff` for light mode & `#0d1117` for dark mode.
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->
 
 
 
