@@ -58,26 +58,11 @@ You can include some HTML syntax in Markdown.
 
   * [Task List](#Task-List)
 
+  * [Aligning Items](#Aligning-Items)
+
+  * [Drop-Down List](#Drop-Down-List)
+
   * [Table](#Table)
-
-
-
-<br>
-<br>
-
-for other navigation links
-
-  * [Heading Size](#Heading-Size)
-
-  * [Heading Size](#Heading-Size)
-
-  * [Heading Size](#Heading-Size)
-
-  * [Heading Size](#Heading-Size)
-
-
-
-
 
 <br>
 
@@ -316,6 +301,31 @@ Quoted text Output:
   - [x] Option B
 
   - [ ] Option C
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->
+### Aligning Items
+
+<p align="center">
+<img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+### Drop-Down List
+
+<details>
+<summary> Click to Drop-Down </summary>
+
+Hi all
+
+</details>
 
 ---
 
