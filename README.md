@@ -7,17 +7,28 @@ You can include some HTML syntax in Markdown.
 
 ### This is a long ReadMe, read-write-study patiently, this will be here forever.
 
+---
+
+## Quick Navigation
+
+* Click the link to go to specific heading
+
+  * [Downloading Zip File](#Download-and-start-installation)
+
+  * [Installation](#Run-setup-file)
+
+  * [User creation](#User-creation)
 
 
 You can include some HTML syntax in Markdown.
 
-* Comments 
+## Comments 
 
             <!-- 'write comments here' -->
 
 ---
 
-* Heading Size
+### Heading Size
 
             # Largest heading
             ## Second largest heading
@@ -25,7 +36,7 @@ You can include some HTML syntax in Markdown.
 
 # Largest heading
 ## Second largest heading
-###### The smallest heading
+###### Smallest heading
 
 ---
 
@@ -34,6 +45,18 @@ You can include some HTML syntax in Markdown.
             --- , just put 3 minus symbols
 
 ---
+
+ * Add new line
+
+            sentence one.\
+            sentence two
+
+---
+
+
+
+
+
 
 ### Reference Sites + Credits
 
