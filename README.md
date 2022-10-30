@@ -1,7 +1,3 @@
-# Repository under maintenance...you can beta-test it, and report me
-<!-- REMOVE ^^^THIS^^^ AFTER FINISHING THE EDIT -->
-
-
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
 Markdown is a markup language used to write content on the web.\
@@ -23,6 +19,8 @@ You can include some HTML syntax in Markdown.
 
 * Click on the drop-down to see contents
 
+<details>
+<summary> Contents </summary>
 
 * Click the link to go to specific heading
 
@@ -31,6 +29,8 @@ You can include some HTML syntax in Markdown.
   * [Heading Size](#Heading-Size)
 
   * [Horizintal Rule or Line](#Horizintal-Rule-or-Line)
+  
+  * [Add new line](#Add-new-line)
 
   * [Text Styling](#Heading-Size)
     
@@ -63,6 +63,8 @@ You can include some HTML syntax in Markdown.
   * [Drop-Down List](#Drop-Down-List)
 
   * [Table](#Table)
+
+</details>
 
 <br>
 
@@ -319,8 +321,10 @@ Quoted text Output:
 
    * Put mouse cursor on image to see alignment type.
 
+[link]: "https://img.icons8.com/nolan/512/markdown.png"
+
 <p align="center">
-<img src="https://img.icons8.com/nolan/512/markdown.png" title = "Center Aligned" height='50'></p>
+<img src= [link] title = "Center Aligned" height='50'></p>
 
 <p align="left">
 <img src="https://img.icons8.com/nolan/512/markdown.png" title = "Left Aligned" height='50'></p>
@@ -395,4 +399,4 @@ Table Output:
 
 * [javaTpoint Markdown Tutorial](https://www.javatpoint.com/markdown)
 
-* And, many other websites, just [search](https://www.google.com) your doubts...
+* And many other websites, just [search](https://www.google.com) your doubts...
