@@ -1,3 +1,5 @@
+# Repository under maintenance...you can beta-test it, and report me
+
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
 Markdown is a markup language used to write content on the web.\
@@ -42,9 +44,10 @@ You can include some HTML syntax in Markdown.
     * [Superscript](#Superscript) 
 
 
+<br>
+<br>
 
-
-
+for other navigation links
 
   * [Heading Size](#Heading-Size)
 
