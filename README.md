@@ -28,6 +28,7 @@ You can include some HTML syntax in Markdown.
             
             --- , just put 3 minus symbols
 
+---
 
 ### Reference Sites + Credits
 
