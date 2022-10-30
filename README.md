@@ -15,7 +15,7 @@ You can include some HTML syntax in Markdown.
 
 ---
 
-## Quick Navigation
+## Contents
 
 * Click the link to go to specific heading
 
@@ -25,14 +25,26 @@ You can include some HTML syntax in Markdown.
 
   * [Horizintal Rule or Line](#Horizintal-Rule-or-Line)
 
+  * [Text Styling](#Heading-Size)
+    
+    * [Bold](#Bold) 
+
+    * [Italic](#Italic) 
+
+    * [Strikethrough](#Strikethrough) 
+
+    * [Bold & nested italic](#Bold-&-nested-italic) 
+
+    * [All bold & italic](#All-bold-&-italic) 
+
+    * [Subscript](#Subscript) 
+
+    * [Superscript](#Superscript) 
 
 
 
 
 
-  * [Italic](#Italic)
-
-  * [Heading Size](#Heading-Size)
 
   * [Heading Size](#Heading-Size)
 
