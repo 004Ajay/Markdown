@@ -45,7 +45,9 @@ You can include some HTML syntax in Markdown.
 
     * [Superscript](#Superscript) 
 
-    * [Quoting](#Quoting)
+    * [Quoting Code](#Quoting-Code)
+
+    * [Quoting Text](#Quoting-Text)
 
   * [Adding Image](#Adding-Image)
 
@@ -216,12 +218,27 @@ Superscript Output: <sup>This is a superscript text</sup>
 
 <!-- ------------------------------------------- -->
 
-#### Quoting
+#### Quoting Code
 
         ` `
-        This is a `quoted` text
+        This is a `quoted` code
 
-Quote Output: This is a `quoted` text
+Quoted code Output: This is a `quoted` code
+
+---
+
+<br>
+
+<!-- ------------------------------------------- -->
+
+#### Quoting Text
+
+        >
+        > Text that is a quote
+
+Quoted text Output: 
+
+>This is a quoted text
 
 ---
 
@@ -237,7 +254,11 @@ Quote Output: This is a `quoted` text
 
         <img src="image.jpg or path" alt="alt_name" width="500" height="600">
 
+---
 
+<br>
+
+<!-- ------------------------------------------- -->
 
 
 
