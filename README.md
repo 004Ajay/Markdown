@@ -309,8 +309,27 @@ Quoted text Output:
 <!-- ------------------------------------------- -->
 ### Aligning Items
 
+
+                align types = center, left, right, justify
+
+                <p align=''>
+                <img src="image link here" title = 'optional' height='optinal'></p>
+
+* Sample Output:
+
+   * Put mouse cursor on image to see alignment type.
+
 <p align="center">
-<img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>
+<img src="https://img.icons8.com/nolan/512/markdown.png" title = "Center Aligned" height='50'></p>
+
+<p align="left">
+<img src="https://img.icons8.com/nolan/512/markdown.png" title = "Left Aligned" height='50'></p>
+
+<p align="right">
+<img src="https://img.icons8.com/nolan/512/markdown.png" title = "Right Aligned" height='50'></p>
+
+<p align="justify">
+<img src="https://img.icons8.com/nolan/512/markdown.png" title = "Justify Aligned" height='50'></p>
 
 ---
 
@@ -320,11 +339,16 @@ Quoted text Output:
 
 ### Drop-Down List
 
+                <details>
+                <summary> Heading here </summary>
+                Write contents here
+                </details>
+
+Sample Output:
+
 <details>
 <summary> Click to Drop-Down </summary>
-
-Hi all
-
+List has dropped down
 </details>
 
 ---
@@ -364,10 +388,6 @@ Table Output:
 <br>
 
 <!-- ------------------------------------------- -->
-
-
-
-
 
 ### Reference Sites + Credits
 
