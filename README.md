@@ -1,9 +1,14 @@
 # Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
-#### This is a long ReadMe, read-write-study patiently, this will be here forever.
-
-
 Markdown is a markup language used to write content on the web.
+You can include some HTML syntax in Markdown.
+
+---
+
+### This is a long ReadMe, read-write-study patiently, this will be here forever.
+
+
+
 You can include some HTML syntax in Markdown.
 
 * Comments 
