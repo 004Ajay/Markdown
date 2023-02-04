@@ -1,4 +1,12 @@
-# Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
+
+<p align="center">
+<img src="https://img.icons8.com/nolan/384/markdown.png" title = "Database / SQL" height='200'></p>
+
+<h1 align="center"> MARKDOWN SYNTAXES </h1>
+
+<!-- ---------------------------------------------------  -->
+
+## Markdown Syntaxes by [AJAY](https://github.com/004Ajay)
 
 Markdown is a markup language used to write content on the web.\
 You can include some HTML syntax in Markdown.\
